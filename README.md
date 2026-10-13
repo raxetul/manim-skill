@@ -9,13 +9,13 @@ It does not cover ManimGL.
 Clone the repository into your skills folder:
 
 ```bash
-git clone https://github.com/<owner>/manim-skill ~/.claude/skills/manim
+git clone https://github.com/raxetul/manim-skill ~/.claude/skills/manim
 ```
 
 Or use `npx skills`:
 
 ```bash
-npx skills add <owner>/manim-skill
+npx skills add raxetul/manim-skill
 ```
 
 ## Requirements
